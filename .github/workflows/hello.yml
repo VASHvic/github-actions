@@ -12,3 +12,6 @@ jobs:
       - name: Step Hola Mundo
         run: |
           echo "Hola Victor"
+      - name: Dime la fecha
+        run: date
+      - run: ls -l
