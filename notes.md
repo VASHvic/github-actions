@@ -1,6 +1,7 @@
 # Notes del repository
 
 Repo probant github actions y vite /vitest
+en tutorials de peladonerd, wds y firship
 
 ````
 "types": ["vitest/importMeta"]
